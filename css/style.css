@@ -1,0 +1,81 @@
+html, body {
+	margin: 0;
+	box-sizing: border-box;
+	background: #f4f6f7;
+	font-family: Arial, Tahoma, sans-serif;
+	color: #43525d;
+}
+.container {
+	width: 1200px;
+	margin: 10px auto;
+}
+.goods-cart {
+	width: 270px;
+	height: 365px;
+	margin: 0 15px 0 15px;
+	background: #fff;
+	float: left;
+	text-align: center;
+}
+.goods-cart img {
+	margin-top: 30px;
+}
+.goods-cart .goods-name {
+	color: #43525d;
+	font-size: 18px;
+}
+.goods-cart .cost {
+	color: #ff7013;
+}
+h3 {
+	font-size: 36px;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 20px 0;
+}
+h3 span {
+	color: #ff7013
+}
+.section-decription {
+	text-align: center;
+
+}
+.goods-block {
+	margin: 80px 0;
+}
+.red {
+	background: red;
+	border-radius: 100%;
+	float: left;
+	width: 20px;
+	height: 20px;
+	margin: 0 5px;
+}
+.grey {
+	background: grey;
+	border-radius: 100%;
+	float: left;
+	width: 20px;
+	height: 20px;
+	margin: 0 5px;
+}
+.blue {
+	background: #3ab3ff;
+	border-radius: 100%;
+	float: left;
+	width: 20px;
+	height: 20px;
+	margin: 0 5px;
+}
+.green {
+	background: green;
+	border-radius: 100%;
+	float: left;
+	width: 20px;
+	height: 20px;
+	margin: 0 5px;
+}
+.zakalebalo img {
+margin: 0 auto;
+
+}
